@@ -83,4 +83,4 @@ Successfully corrected data for thousands of records without:
 ---
 
 **Author**: Matthew Miles
-**Focus**: Healthcare IT Analytics | Epic Systems | Database Solutions
+**Focus**: Data Systems | SQL Engineering | Complex Problem Solving
