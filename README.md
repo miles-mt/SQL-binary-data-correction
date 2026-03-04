@@ -86,7 +86,7 @@ Successfully corrected data for thousands of records without:
 **Focus**: Data Systems | SQL Engineering | Complex Problem Solving
 
 <code>
--- Binary Data Correction via SQL
+```-- Binary Data Correction via SQL
 -- Author: Matthew Miles
 -- Challenge: Parse and update 4-byte integers stored in binary BLOB without external programs
 
@@ -137,5 +137,5 @@ SET patient.clinical_profile = REPLACE(
     patient.clinical_profile, 
     MID(clinical_profile, 4749, data_correction.binary_length), 
     data_correction.corrected_binary
-);
+);```
 </code>
